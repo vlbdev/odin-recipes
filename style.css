@@ -1,0 +1,13 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul, ol {
+    background-color: grey;
+    padding: 35px;
+    max-width: 350px;
+}
+
+li {
+    color:yellow;
+}
