@@ -8,12 +8,12 @@ ul, ol {
     max-width: 350px;
 }
 
-li {
+li, li a {
     color:yellow;
 }
-li:last-child {
+.recipesList li:last-child {
     margin-left: 90%;
 }
-li:nth-child(2){
+.recipesList li:nth-child(2){
     margin-left: 50%;
 }
